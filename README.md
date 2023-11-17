@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Warkinnash
 - 👀 I’m interested in Reading books, hiking and travelling.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning different languages of web development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sweetsammy37@gmail.com
 
 <!---
 Warkinnash/Warkinnash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
